@@ -1,0 +1,24 @@
+[
+
+    {
+        "Fruit_Type": "Apple",
+        "Attributes": {
+            "Sweetness": 4,
+            "Color": "Red"
+        }
+    }, {
+        "Fruit_Type": "Orange",
+        "Attributes": {
+            "Sweetness": 1,
+            "Color": "Orange"
+        }
+    },
+    {
+        "Fruit_Type": "Bannana",
+        "Attributes": {
+            "Sweetness": 9,
+            "Color": "Yellow"
+        }
+    }
+
+]
